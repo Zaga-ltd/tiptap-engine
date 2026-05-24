@@ -11,13 +11,10 @@ Thumbs.db
 *.swo
 *~
 .idea/
-.vscode/
 *.sublime-project
 *.sublime-workspace
 
 # Environment and local config
-.env
-.env.*
 
 # Logs
 *.log
@@ -35,3 +32,4 @@ coverage/
 codetree.config.json
 codetree_code.txt
 codetree_tree.txt
+config.bat
